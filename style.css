@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    position: fixed;
+ bottom: 0;
+    width: 100%;
+}
+.carousel-caption {
+    text-align: center; 
+}
+
+.card-body {
+    text-align: center; 
+}
